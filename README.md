@@ -8,6 +8,13 @@ I integrated image processing techniques, resizing images for optimal analysis a
 
 Key technologies and skills demonstrated in this project include machine learning, computer vision, data analysis with Pandas, image processing with OpenCV, and GUI development using Tkinter. This project not only emphasized my technical abilities but also highlighted my understanding of diverse technologies in the fields of machine learning and computer vision.
 
+## OUTPUT
+
+![image](https://github.com/chyash1110/colordetection/assets/118417410/2b4af06f-70a9-481c-b332-53f8976c58ac)
+
+![image](https://github.com/chyash1110/colordetection/assets/118417410/2bea485e-6051-4298-b35c-71c4de408c2a)
+
+
 Requirements:
 --------------
 1. OpenCV    https://docs.opencv.org/
